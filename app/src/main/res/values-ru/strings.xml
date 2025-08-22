@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Коран Приложение</string>
+    <string name="main">Главная</string>
+    <string name="surahs">Суры</string>
+    <string name="settings">Настройки</string>
+    <string name="language">Язык</string>
+    <string name="select_language">Выберите язык</string>
+    <string name="english">Английский</string>
+    <string name="uzbek">Узбекский</string>
+    <string name="russian">Русский</string>
+    <string name="arabic">Арабский</string>
+    <string name="loading">Загрузка</string>
+    <string name="restart_app">Перезапустить приложение</string>
+    <string name="cancel">Отмена</string>
+</resources>
